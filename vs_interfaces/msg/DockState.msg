@@ -1,0 +1,6 @@
+uint32 state
+uint32 PLANNING=0
+uint32 STAGEONE=1
+uint32 STAGETWO=2
+uint32 IDLE=3
+uint32 ERROR=7
